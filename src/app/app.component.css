@@ -1,0 +1,19 @@
+#myContainer{
+  background-color: darkgray;
+}
+
+#myRow{
+  /*
+  border: 1px solid  black;
+  margin: 3px;
+  */
+    padding: 3px;
+}
+
+#myCol{
+  border-radius: 3px;
+  border: 1px solid cornflowerblue;
+  padding: 3px;
+  margin-right:1px;
+  /*background-color: darkcyan;*/
+}
